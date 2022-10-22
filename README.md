@@ -1,5 +1,4 @@
 # React Portfolio, multiple pages with dark mode
-# Gonna get this working
 
 ## a portfolio for developers
 
