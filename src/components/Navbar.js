@@ -21,6 +21,11 @@ const links = [
         to: '/portfolio',
         active: 'portfolio'
     },
+    {
+        name: 'Fun',
+        to: '/portfolio',
+        active: 'portfolio'
+    },
 ]
 
 export default function Navbar({darkMode, handleClick}) {
